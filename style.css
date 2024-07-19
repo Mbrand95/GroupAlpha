@@ -1,15 +1,25 @@
 /* Group Alpha */
 
 body, h1, blockquote {
+    background-color: antiquewhite;
     margin: 0;
     padding: 0;
 }
 
 body {
+    font-size: 12;
+    font-family: sans-serif;
 }
 
 h1 {
+    font-size: 24;
+    font-family: sans-serif;
+    font-weight: bold;
 }
 
 blockquote {
+    font-size: 16;
+    font-family: sans-serif;
+    font-style: italic;
+    color: darkgray;
 }
